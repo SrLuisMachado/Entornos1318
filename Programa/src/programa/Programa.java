@@ -30,5 +30,4 @@ public class Programa {
             else
             System.out.println("¡No! Era el "+adivinar);
     
-    
 }
